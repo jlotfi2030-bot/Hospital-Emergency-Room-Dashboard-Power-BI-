@@ -50,7 +50,8 @@ This dashboard provides a consolidated view of key performance indicators (KPIs)
 
 ## 🖼 **Dashboard Snapshot**
 
-![Hospital Emergency Room Dashboard](CONSOLIDATED VIEW.jpg)
+![Hospital Emergency Room Dashboard](Monthly View.jpg)
+
 
 ---
 
